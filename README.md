@@ -20,10 +20,10 @@ python manage.py runserver
 Type 'localhost:8000' into your browser's searchbar.
 
 ## ✨ Team
-@Kelho0812   
-@hiimgabe   
-@damachad   
-@tbezerrasoares   
+[@Kelho0812](https://github.com/kelho0812)
+[@hiimgabe](https://github.com/hiimgabe)
+[@damachad](https://github.com/damachad)
+[@tbezerrasoares](https://github.com/tbezerrasoares)
 
 ## Demo
 
